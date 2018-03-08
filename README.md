@@ -1,1 +1,1 @@
-# Craps
+# Simple Craps game simulator
